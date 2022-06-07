@@ -1,0 +1,40 @@
+[
+    {
+        "id": 1,
+        "name": "Apenox",
+        "email": "apenox@gmail.com",
+        "password": "admin1",
+        "isAdmin": true,
+        "image": ""
+    },
+    {
+        "id": 2,
+        "name": "Colix",
+        "email": "colix@gmail.com",
+        "password": "admin2",
+        "isAdmin": true,
+        "image":""
+    },
+    {
+        "id": 3,
+        "name": "Reuven",
+        "email": "user1@example.com",
+        "password": "user1",
+        "isAdmin": false,
+        "image":""
+    },
+    {
+        "id": 4,
+        "name": "Simeon",
+        "email": "user2@example.com",
+        "password": "user2",
+        "isAdmin": false
+    },
+    {
+        "id": 5,
+        "name": "Levi",
+        "email": "user3@example.com",
+        "password": "user3",
+        "isAdmin": false
+    }
+]

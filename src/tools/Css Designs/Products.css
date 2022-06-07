@@ -1,0 +1,57 @@
+.artworksinfo > a {
+    text-decoration: none;
+    color: #f2f2f2;
+    margin-left: 10px;
+    font-size: 40px;
+    position: relative;
+    top: 150px;
+    padding: 10px;
+  }
+  .productnav > a {
+    text-decoration: none;
+    color: #f2f2f2; 
+    float: left;
+    position: relative;
+    text-align: center;
+    padding-top: 300px;
+    font-size:15px;
+    padding-left: 100px;
+  }
+  .product_container img {
+   height: 200px;
+   width: 120px;
+  }
+  .product_container1 img {
+    height: 250px;
+    width: 250px;
+   }
+   .productnav1 > a {
+     text-decoration: none;
+    color: #f2f2f2; 
+    float: left;
+    position: relative;
+    text-align: center;
+    padding-top: 300px;
+    font-size:15px;
+    padding-left: 100px;
+  }
+  .productnav1 > a:hover {
+  color: #f2f2f2;
+  }
+  .productnav > a:hover {
+    color: #f2f2f2;
+  }
+  .productsinfo img {
+  }
+  .productsinfo  {
+    padding-top: 300px;
+  }
+  .productsinfo p {
+    padding-left: 400px;
+    position: relative;
+    bottom: 470px;
+    font-size:30px ;
+  }
+  img.small {
+    height: 300px;
+  }

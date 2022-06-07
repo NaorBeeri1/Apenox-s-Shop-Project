@@ -1,0 +1,61 @@
+.homeinfo h1 {
+    text-align: center;
+    padding-top: 200px;
+    font-size: 50px;
+  }
+
+  .homeinfo p {
+    text-align: center;
+    padding-top: 1%;
+    font-size: 30px;
+  }
+ 
+  .header2 {
+    position: absolute;
+    top: 68px;
+    right: 130px;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 30px;
+    color: #9b002e;
+    font-weight: 700;
+  }
+  
+   .lob {
+    position: absolute;
+    top: 65px;
+    right: 40px;
+    display: inline-block;
+    padding: 3px 15px;
+    border-radius: 8px;
+    background-image: linear-gradient(to right, #000000 50%,#940101 50%, #8b002a);
+    background-size:200% ;
+    transition: 0.4s;
+    color: #FFF;
+    font-weight: 700;
+    cursor: pointer;
+  }
+  .lob:hover{
+    background-position: 100% 0%;
+  }
+  .username1 {
+    color: #9b002e;
+    font-weight: 700;
+  }
+  .navigation > a { 
+    color: #f2f2f2; 
+    padding: 10px 12px;
+    text-decoration: none;
+    font-size: 32px;
+    margin:0%;
+    float:left; 
+  }
+  
+  .navigation > a:hover {
+    background-color: grey;
+    color: black;
+  }
+  .navigation > a:active {
+    color: white;
+  }

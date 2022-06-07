@@ -1,0 +1,161 @@
+
+  /*General UI css*/
+  *{
+    font-family: montserrat, sas-serif;
+  }
+  .App {
+    height: 100vh; 
+    background: url('/src/tools/Pictures/Comp_2_7.png') no-repeat center fixed ;
+    color: #f2f2f2;
+    }
+  .contactus {
+    text-align: center;
+    padding-top: 200px;
+    font-size: 50px;
+  }
+  .aboutinfo h1{
+    text-align: center;
+    padding-top: 200px;
+    font-size: 40px;
+  }
+  .aboutinfo p {
+    text-align: center;
+    padding-top: 1%;
+    font-size: 30px;
+  }
+  .ordersinfo {
+    text-align: center;
+    padding-top: 200px;
+    font-size: 50px;
+  }
+  .csitems {
+    display: flex;
+  }
+  
+  /* .block-col-2 {
+    display: inline;
+  }ww
+  .block-col-2 h2{
+    display: inline;
+  } */
+  .prdctlist {
+    display: inline;
+    padding: 20px;
+    margin: auto;
+    
+  }
+  .atcbtn {
+    display: inline;
+    font-size:20px ;
+    /* background-color: #000000; */
+  }
+  .shoppp {
+  font-size: 30px;
+  margin: auto;
+  width: 100%;
+  padding: 40px;
+  }
+  .btn-popup {
+    display: block;
+    border: none;
+    background-color: transparent;
+    color: #f2f2f2;
+  }
+  .atcbtn1 {
+    border: none;
+    background-color: transparent;
+    color: #f2f2f2;
+    border: 2px solid transparent;
+  
+  }
+  .atcbtn1:hover {
+    color: grey;
+  }
+  .btn-popup:hover {
+    color: grey;
+  }
+  .csheader {
+    text-decoration: underline;
+    position: relative;
+    bottom: 50px;
+    margin: auto;
+  }
+  .csitems{
+  text-align: center;
+  margin: auto;
+  width: 50%;
+  }
+  .block-col-1 {
+    display: inline-block
+  }
+  .roww{
+   padding: 10px;
+   font-size: 20px;
+  
+  }
+  .row {
+    display: flex;
+    justify-content: space-between;
+  }
+  .row.center {
+    align-items: center;
+  }
+  .col-1 {
+    flex: 1;
+  }
+  .col-2 {
+    flex: 2;
+  }
+  .block {
+    background-color: #e0e0e0;
+    padding: 1rem;
+    margin: 0.5rem;
+    border-radius: 0.5rem;
+  }
+  .text-right {
+    text-align: right;
+  }
+  img.small {
+
+  }
+  button {
+  
+  }
+  button.add {
+    width: 1.5rem;
+  }
+  button.remove {
+    width: 1.5rem;
+  }
+  button.badge {
+    border: none;
+    color: #ffffff;
+    width: 1.5rem;
+  }
+  .block-col-2 {
+    padding-top: 80px;
+  }
+  .main-footer1 {
+    display: flex;
+  }
+  .coll1 {
+    display: inline;
+  }
+  .container1{
+    display: flex;
+  }
+  .main-footer {
+    color: white;
+    /* background-color: #dc3545; */
+    padding-top: 3em;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    position: absolute;
+  }
+  .col-sm{
+    text-decoration: none;
+  }
+  .small1{
+    height: 100px;
+  }
