@@ -1,6 +1,7 @@
 # Apenox-s-Shop-Project
 My midterm project for HackerU
 In this project i have made a site for my brother dor (A.K.A Apenox). The site is used to present templates for his works which are Artworks, Logos, Workshops. I have been working on this site since March and about 100 hours, unfortunatly i havent had enough time to completely finish it. 
+
 As you enter the site you are required to log in into your account, there are two options to log in as, as a user, and as an admin.
 After you log in into the site you will remain in the site untill you log out, Thanks to local storage, afterwards, you will be directed into the Home page, which there you can see a welcoming note and a little about the site itself.Underneath, you can see a footer to the site, the first sections gives an information about the shop (such as: Phone number to contact, and location), the second section is a little navigation targets to all the pages that has information about the site, and the last section, directs you to all the types of the products mentioned in the site. Top right of the site, you get the option to log out of the user. Above, you can see the navigation bar, which lets you direct to other sides of the site:
 Home (which was just mentioned)
